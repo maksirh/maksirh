@@ -44,4 +44,4 @@ I build web backends end to end — from data models and REST APIs to background
 ## Contacts
 
 - 📧 Email: [yorzhmaksym@gmail.com](mailto:yorzhmaksym@gmail.com)
-- 💼 LinkedIn: TODO — add LinkedIn profile URL
+- 💼 LinkedIn: [linkedin.com/in/maksym-yorzh](https://www.linkedin.com/in/maksym-yorzh/)
